@@ -296,7 +296,7 @@
         "mcp",
         "start"
       ]
-    },
+    }
   },
   "enabledMcpjsonServers": [
     "claude-flow",
